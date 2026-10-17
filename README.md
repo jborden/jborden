@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jborden
 - 👀 I’m currently interested in gaming, music, scientific software
 - 🌱 I’m currently learning the challenges of developing a programming language
-- 💞️ I’m looking to collaborate on [clortran](https://github.com/clotran/clotran)
+- 💞️ I’m looking to collaborate on [clotran](https://github.com/clotran/clotran)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/james-michael-borden/)
 - 🚰 Pipe advocate (|, ->, ->>, |>)
 
