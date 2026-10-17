@@ -15,6 +15,7 @@ If you're coming here from my resume, thanks for taking the time! Here are some 
 
 I mentioned [chemsol](https://github.com/jborden/chemsol) in my resume. It's Fortran, but don't let that scare you! Hint: There is only one kind of loop in Fortran, the `do` loop. 
 
+[clotran](https://github.com/clotran/clotran) is a programming language I am working on. It's a Clojure that sits on top of Fortran. The motivation is to be able to utilize tried-and-true scientific software that has been written in Fortran in a modern dynamic programming language.
 <!---
 jborden/jborden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
